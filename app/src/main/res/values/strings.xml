@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicXC</string>
+
+    <string name="home_route">Home</string>
+    <string name="favourites_route">Favourites</string>
+    <string name="albums_route">Albums</string>
+    <string name="playlist_route">Playlists</string>
+</resources>
